@@ -9,6 +9,6 @@ int main() {
     d=a-b; // Calculate the difference of a and b;
     printf("Sum = %d\n", c); // Output the result hii hello 
     printf("Difference = %d\n", d); // Output the difference
-printf("Hello World\n"); // Output Hello World
+    pfrintf("Hello World!"); // Output Hello World
     return 0; 
 }
