@@ -15,7 +15,7 @@ int main() {
             largest = arr[i]; // Update largest if current element is greater
         } 
     }    
-    printf("The largest element in the array is: %d\n", largest); // Output the largest element
+    printf("The largest element in the array is: %d\n", largest); // this is the output of the largest element in the array
 
     // this is the version 1
 }
